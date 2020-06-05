@@ -1,0 +1,8 @@
+Evolution of complexity: a modeling exploration
+
+Speaker: Prof. Guillaume Beslon, Inria Antenne Lyon, BEAGLE Team
+
+Abstract: The evolutionary origin of the complexity of biological systems is an issue that has been intriguing the scientific community for decades. Two main hypotheses have been proposed to explain the apparent trend toward complexity increase. According to the first one, the complexity of biological systems is due to selective factors (the more complex organisms having a higher fitness). According to the second one, the mutational process is the sole responsible (complexity being mechanically due to the accumulation of mutations). The debate is difficult to resolve because it is essentially based on thought experiments and no simple assay makes it possible to address this issue. In such a context, the modeling appears as a middle way: more rigorous than a thought experiment, it makes it possible to carry out “impossible experiments” by testing parameters settings (or situations) that would be intractable in practice.
+
+In the context of Darwinian evolution, we have developed the Aevol model with the objective of performing virtual experiments to isolate the evolutionary mechanisms impacting the molecular structure of biological systems. Using Aevol, we have evolved virtual organisms into two different environments, one favoring simple organisms, the other favoring complex organisms. Our results show that complexity increases in both situations but also that this increase is not due to the sole mutational process. These results open the way to a third explanation: the existence of a “complexity ratchet" related to the historical nature of the evolutionary process.
+
